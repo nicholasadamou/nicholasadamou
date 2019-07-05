@@ -4,10 +4,10 @@
 
 ### npm
 
-Assuming you have npmjs registry set up, you can use via npx:
+Assuming you have the latest npm installed, you can use via `npx`:
 
 ```
 npx @nicholasadamou/card
 ```
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy. 🤨
+Not including how to use it globally because I'm not sure why you'd want this as a global command; that'd be creepy. 🤨
