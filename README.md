@@ -3,12 +3,7 @@ It's me, Nick! 👋🏼 [![Build Status](https://travis-ci.org/nicholasadamou/ni
 # Usage
 
 ## npm
-```
-npx nicholasadamou
-```
-
-## GitHub Package Registry
-Assuming you have the GitHub registry set up, you can use via npx:
+Assuming you have the npmjs registry set up, you can use via npx:
 ```
 npx @nicholasadamou/card
 ```
