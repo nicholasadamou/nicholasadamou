@@ -1,9 +1,11 @@
-It's me, Nick! 👋🏼 [![Build Status](https://travis-ci.org/nicholasadamou/nicholasadamou.svg?branch=master)](https://travis-ci.org/nicholasadamou/nicholasadamou)
+# It's me, Nick! 👋🏼 [![Build Status](https://travis-ci.org/nicholasadamou/nicholasadamou.svg?branch=master)](https://travis-ci.org/nicholasadamou/nicholasadamou)
 
 # Usage
 
 ## npm
+
 Assuming you have npmjs registry set up, you can use via npx:
+
 ```
 npx @nicholasadamou/card
 ```
