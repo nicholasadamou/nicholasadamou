@@ -22,7 +22,7 @@ const data = {
   github: chalk.gray('https://github.com/') + chalk.green('nicholasadamou'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('nicholas-adamou'),
   web: chalk.cyan('https://nicholasadamou.com/'),
-  npx: chalk.red('npx') + ' ' + chalk.white('@nicholasadamou/card  (via GitHub Package Registry)'),
+  npx: chalk.red('npx') + ' ' + chalk.white('@nicholasadamou/card  (via NPM Package Registry)'),
   labelSchool: chalk.white.bold('     School:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
   labelGitHub: chalk.white.bold('     GitHub:'),
