@@ -3,7 +3,7 @@ It's me, Nick! 👋🏼 [![Build Status](https://travis-ci.org/nicholasadamou/ni
 # Usage
 
 ## npm
-Assuming you have the npmjs registry set up, you can use via npx:
+Assuming you have npmjs registry set up, you can use via npx:
 ```
 npx @nicholasadamou/card
 ```
