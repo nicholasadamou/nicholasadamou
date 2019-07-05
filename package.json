@@ -2,22 +2,16 @@
   "name": "@nicholasadamou/card",
   "version": "1.0.0",
   "description": "A personal card for Nicholas Adamou (@nicholasadamou)",
-  "main": "/bin/card.js",
-  "bin": {
-    "nicholasadamou": "./bin/card.js"
-  },
+  "author": "Nicholas Adamou <nicholasadamouemail@gmail.com> (http://nicholasadamou.com)",
+  "homepage": "https://nicholasadamou.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nicholasadamou/nicholasadamou.git"
   },
-  "homepage": "https://nicholasadamou.com",
-  "scripts": {
-    "prepublish": "npm run build",
-    "build": "node build.js",
-    "dev": "npm run build && node ./bin/card.js",
-    "lint": "standard",
-    "test": "echo \"Error: no test specified\" && exit 0"
+  "bugs": {
+    "url": "https://github.com/nicholasadamou/nicholasadamou/issues"
   },
+  "license": "MIT",
   "keywords": [
     "card",
     "npm",
@@ -26,22 +20,24 @@
     "npx card",
     "business card"
   ],
-  "author": "Nicholas Adamou <nicholasadamouemail@gmail.com> (http://nicholasadamou.com)",
-  "license": "MIT",
   "files": [
     "bin/card.js",
     "bin/output"
   ],
+  "main": "/bin/card.js",
+  "bin": {
+    "nicholasadamou": "./bin/card.js"
+  },
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "node build.js",
+    "dev": "npm run build && node ./bin/card.js",
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
   "devDependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1",
     "standard": "^12.0.1"
-  },
-  "bugs": {
-    "url": "https://github.com/nicholasadamou/nicholasadamou/issues"
-  },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
   }
 }
