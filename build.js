@@ -15,7 +15,7 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('               Nick Adamou'),
+  name: chalk.white('              Nick Adamou'),
   handle: chalk.white('nicholasadamou'),
   school: chalk.white('Computer Science Student & Tennis Player at Cornell College'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('nicholasadamou'),
