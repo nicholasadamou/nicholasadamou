@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('              Nick Adamou'),
   handle: chalk.white('nicholasadamou'),
-  school: chalk.white('Computer Science Student & Tennis Player at Cornell College'),
+  school: chalk.white('IBM Software Engineer'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('nicholasadamou'),
   github: chalk.gray('https://github.com/') + chalk.green('nicholasadamou'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('nicholas-adamou'),
