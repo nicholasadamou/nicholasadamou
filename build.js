@@ -8,8 +8,8 @@ const path = require("path");
 
 // Define options for Boxen
 const options = {
-  padding: 1,
-  margin: 1,
+  padding: 2,
+  margin: 2,
   borderStyle: "round",
 };
 
@@ -17,11 +17,11 @@ const options = {
 const data = {
   name: chalk.white("              Nick Adamou"),
   handle: chalk.white("nicholasadamou"),
-  work: chalk.white("👀 🐝 Ⓜ️  Software Engineer"),
+  work: chalk.white("IBM Software Engineer"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("nicholasadamou"),
-  github: chalk.gray("https://github.com/") + chalk.green("nicholasadamou"),
+  github: chalk.gray("https://github.com/") + chalk.cyan("nicholasadamou"),
   linkedin:
-    chalk.gray("https://linkedin.com/in/") + chalk.blue("nicholas-adamou"),
+    chalk.gray("https://linkedin.com/in/") + chalk.cyan("nicholas-adamou"),
   npx:
     chalk.red("npx") +
     " " +
@@ -60,5 +60,5 @@ const output =
 
 fs.writeFileSync(
   path.join(__dirname, "bin/output"),
-  chalk.green(boxen(output, options))
+  chalk.white(boxen(output, options))
 );
