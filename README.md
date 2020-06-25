@@ -7,7 +7,7 @@
 Assuming you have the latest npm installed, you can use via `npx`:
 
 ```
-npx @nicholasadamou/card
+npx nicholasadamou
 ```
 
 Not including how to use it globally because I'm not sure why you'd want this as a global command; that'd be creepy. 🤨

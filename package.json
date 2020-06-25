@@ -1,43 +1,30 @@
 {
-	"name": "@nicholasadamou/card",
-	"version": "1.0.5",
-	"description": "A personal card for Nicholas Adamou (@nicholasadamou)",
-	"author": "Nicholas Adamou <nicholasadamouemail@gmail.com> (http://nicholasadamou.com)",
-	"homepage": "https://nicholasadamou.com",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/nicholasadamou/nicholasadamou.git"
-	},
-	"bugs": {
-		"url": "https://github.com/nicholasadamou/nicholasadamou/issues"
-	},
-	"license": "MIT",
-	"keywords": [
-		"card",
-		"npm",
-		"npm card",
-		"npx",
-		"npx card",
-		"business card"
-	],
-	"files": [
-		"bin/card.js",
-		"bin/output"
-	],
-	"main": "/bin/card.js",
-	"bin": {
-		"nicholasadamou": "./bin/card.js"
-	},
-	"scripts": {
-		"prepublish": "npm run build",
-		"build": "node build.js",
-		"dev": "npm run build && node ./bin/card.js",
-		"lint": "standard",
-		"test": "echo \"Error: no test specified\" && exit 0"
-	},
-	"devDependencies": {
-		"boxen": "^2.1.0",
-		"chalk": "^2.4.1",
-		"standard": "^14.3.4"
-	}
+  "name": "nicholasadamou",
+  "version": "1.0.8",
+  "description": "Get to know Nicholas Adamou via `npx nicholasadamou`.",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "node index.js",
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "bin": {
+    "nicholasadamou": "index.js"
+  },
+  "dependencies": {
+    "cli-welcome": "^2.2.0",
+    "standard": "^14.3.4"
+  },
+  "keywords": [
+    "nicholas adamou",
+    "nicholas",
+    "adamou"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "nicholasadamou/nicholasadamou",
+  "author": {
+    "name": "Nicholas Adamou",
+    "email": "nicholasadamouemail@gmail.com"
+  }
 }
