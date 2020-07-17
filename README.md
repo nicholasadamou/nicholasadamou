@@ -8,9 +8,7 @@ Because of my interest in computers, I've had the unique opportunity to intern a
 
 At all three of those companies, I leveraged cutting-edge JavaScript technologies such as React, React Native, Graph QL, Apollo, React-Redux, Amazon AWS and more to construct applications driven to excel each company's bottom-line.
 
-## Usage
-
-### Find me on the command-line, via `npx`
+## Find me on the command-line, via `npx`
 
 Assuming you have the latest npm installed, you can use via `npx`:
 
