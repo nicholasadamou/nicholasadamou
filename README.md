@@ -1,6 +1,6 @@
 # Hi 👋🏼, nice to meet ya!
 
-I am currently a IBM Software Engineer and a recent graduate from Cornell College. I earned my B.A. in Computer Science with a concentration in Software Engineering. I am a highly organized and hard-working individual who absolutely loves programming. The mere ability to write a few lines of code and have something unique and interesting come up on the screen fascinates me each and every day!
+I am currently a IBM Software Engineer and a recent graduate from Cornell College where I earned my B.A. in Computer Science with a concentration in Software Engineering. I am a highly organized and hard-working individual who absolutely loves programming. The mere ability to write a few lines of code and have something unique and interesting come up on the screen fascinates me each and every day!
 
 Because of my interest in computers, I've had the unique opportunity to intern and work for a few software engineering companies such as Blackbird, Mack Media Group, and IBM where I met and networked with many great and vastly talented engineers.
 
