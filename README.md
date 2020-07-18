@@ -6,7 +6,7 @@ Because of my interest in computers, I've had the unique opportunity to intern a
 
 At all three of those companies, I leveraged cutting-edge JavaScript technologies such as React, React Native, Graph QL, Apollo, React-Redux, Amazon AWS and more to construct applications driven to excel each company's bottom-line.
 
-## Find me on the command-line, via `npx` [![Build Status](https://travis-ci.org/nicholasadamou/nicholasadamou.svg?branch=master)](https://travis-ci.org/nicholasadamou/nicholasadamou)
+## Find me on the command-line [![Build Status](https://travis-ci.org/nicholasadamou/nicholasadamou.svg?branch=master)](https://travis-ci.org/nicholasadamou/nicholasadamou)
 
 Assuming you have the latest npm installed, you can use via `npx`:
 
