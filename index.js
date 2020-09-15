@@ -19,5 +19,4 @@ console.log(`
 I am currently a IBM Software Engineer and a recent graduate from Cornell College where I earned my B.A. in Computer Science with a concentration in Software Engineering. I am a highly organized and hard-working individual who absolutely loves programming. The mere ability to write a few lines of code and have something unique and interesting come up on the screen fascinates me each and every day!
 
 📖 GitHub:  https://github.com/nicholasadamou
-🔗 LinkedIn: https://www.linkedin.com/in/nicholas-adamou/
 `);
