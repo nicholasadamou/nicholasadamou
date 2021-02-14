@@ -1,10 +1,6 @@
 # Hi 👋🏼, nice to meet ya!
 
-I am currently a IBM Software Engineer and a recent graduate from Cornell College where I earned my B.A. in Computer Science with a concentration in Software Engineering. I am a highly organized and hard-working individual who absolutely loves programming. The mere ability to write a few lines of code and have something unique and interesting come up on the screen fascinates me each and every day!
-
-Because of my interest in computers, I've had the unique opportunity to intern and work for a few software engineering companies such as Blackbird, Mack Media Group, and IBM where I met and networked with many great and vastly talented engineers.
-
-At all three of those companies, I leveraged cutting-edge JavaScript technologies such as React, React Native, Graph QL, Apollo, React-Redux, Amazon AWS and more to construct applications driven to excel each company's bottom-line.
+Currently, I am an IBM software engineer. I primarily focus on the front-end and back-end of cloud-native applications. Recently I graduated Summa Cum Laude from Cornell College where I earned my degree in Computer Science. I have always been a highly organized and goal-driven individual who is a problem solver by nature. I love programming because I can use my skills as a software engineer to improve the lives of others by developing fun and intuitive applications.
 
 ## Find me on the command-line [![Build Status](https://travis-ci.org/nicholasadamou/nicholasadamou.svg?branch=master)](https://travis-ci.org/nicholasadamou/nicholasadamou)
 
