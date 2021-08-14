@@ -1,6 +1,6 @@
 {
   "name": "nicholasadamou",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Get to know Nicholas Adamou via `npx nicholasadamou`.",
   "scripts": {
     "prepublish": "npm run build",
