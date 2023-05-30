@@ -6,7 +6,7 @@
 
 I am a full-stack software engineer and graduate student at [Georgia Tech](https://www.cc.gatech.edu/) focused on building accessible, human-centered financial products at [IBM](https://ibm.com).
 
-## Find me on the command-line [![Build Status](https://travis-ci.org/nicholasadamou/nicholasadamou.svg?branch=master)](https://travis-ci.org/nicholasadamou/nicholasadamou)
+## Find me on the command-line
 
 Assuming you have the latest npm installed, you can use via `npx`:
 
