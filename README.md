@@ -14,15 +14,3 @@ npx nicholasadamou
 ```
 
 Not including how to use it globally because I'm not sure why you'd want this as a global command; that'd be creepy. 🤨
-
-## GitHub profile stats
-
-<a href="https://github.com/nicholasadamou">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicholasadamou&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imadatyatalah&layout=compact&langs_count=6&theme=react"/>
-</a>
-
-
-## LeetCode
-
-![Nick's top languages](https://leetcard.jacoblin.cool/nicholasadamou?theme=nord)
