@@ -1,10 +1,16 @@
 <h1>Hi 👋🏼, nice to meet ya! I'm Nick!</h1>
 
-I am a performance-driven full-stack software engineer with a strong background in both front-end and back-end development for cloud-native applications. My expertise spans a broad array of web-based technologies, and I pride myself on my software design, system architecture, requirements analysis, and problem-solving skills. 
+I'm Nicholas Adamou, a passionate Senior Software Engineer with a Master's degree in Computer Science from Georgia Institute of Technology and a Bachelor's degree in Computer Science from Cornell College. My journey in software engineering has led me to work with some of the biggest names in the industry, including IBM.
 
-Beyond my technical skills, I firmly believe in the power of community and collaboration. I regularly contribute to Stack Overflow, providing solutions and answers to programming challenges that have reached hundreds of thousands of developers worldwide. At IBM, I have contributed to inner-source initiatives, constructing reusable assets and working collaboratively with cross-function teams to deliver quality code.
+At [DotBrains](https://github.com/dotbrains), I am the Founder, and I have developed various tools to enhance productivity and streamline development environments. Notably, I created the [`set-me-up`](https://github.com/dotbrains/set-me-up-docs) toolkit, which automates macOS development environment setup with customizable dotfiles and shell scripts. Additionally, I built [`ghw`](https://github.com/dotbrains/ghw), a command-line tool that enhances the GitHub CLI for better repository management.
 
-Mentorship is a passion of mine. I have served as a software engineering mentor for interns and EPH, coaching them in technical skills, professional development, and best practices in software development. I find great satisfaction in guiding the next generation of software engineers and playing a role in preparing them for successful careers in the field.
+During my tenure at IBM, I have significantly contributed to projects involving cloud-native applications, scalable solutions, and CI/CD pipelines. My expertise spans various technologies, including Java Spring Boot, React.js, Python, Tekton, and Shell Scripting. I have a proven track record of improving developer workflows, and developing full stack applications and microservices.
+
+I am also recognized for my mentoring and coaching abilities, having received multiple awards for my contributions to the IBM Developer Profession. My work has been acknowledged with accolades such as the Growth Award and the Beacon of Excellence Mentoring Award.
+
+My technical skills include Java, JavaScript (React, Angular, Next, Node.js, TypeScript), Python, Go, Ruby on Rails, and a variety of DevOps tools like Docker, Kubernetes, Tekton, Helm, and more. I am proficient in managing databases such as Db2, Cloudant, and MongoDB.
+
+Outside of my professional work, I have participated in numerous hackathons and technical presentations, consistently delivering innovative solutions and winning recognition for my efforts.
 
 ## Find me on the command-line
 
