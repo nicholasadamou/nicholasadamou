@@ -8,7 +8,7 @@ During my tenure at IBM, I have significantly contributed to projects involving 
 
 I am also recognized for my mentoring and coaching abilities, having received multiple awards for my contributions to the IBM Developer Profession. My work has been acknowledged with accolades such as the Growth Award and the Beacon of Excellence Mentoring Award.
 
-My technical skills include Java, JavaScript (React, Angular, Next, Node.js, TypeScript), Python, Go, Ruby on Rails, and a variety of DevOps tools like Docker, Kubernetes, Tekton, Helm, and more. I am proficient in managing databases such as Db2, Cloudant, and MongoDB.
+My technical skills include Java, JavaScript (React, Angular, Next, Node.js, TypeScript), Python, Go, Ruby on Rails, and a variety of DevOps tools like Docker, Kubernetes, Tekton, Helm, and more. I am proficient in managing databases such as DB2, Cloudant, and MongoDB.
 
 Outside of my professional work, I have participated in numerous hackathons and technical presentations, consistently delivering innovative solutions and winning recognition for my efforts.
 
