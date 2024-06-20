@@ -1,6 +1,6 @@
 # Hi there, I'm Nick Adamou 👋
 
-Welcome to my GitHub! I'm a senior software engineer with a passion for technology and building impactful solutions. Currently, I'm a senior software engineering [@IBM](https://github.com/ibm).
+Welcome to my GitHub! I'm a software engineer with a passion for technology and building impactful solutions that make the world better. Currently, I'm a senior software engineer [@IBM](https://github.com/ibm) ([NS1 Connect](https://www.ibm.com/products/ns1-connect)).
 
 - 🔭 I’m currently working with NS1 Connect to develop a bespoke Zero Trust Managed DNS SaaS solution that is to be used by IBM's global customer base.
 - 🌱 I’m currently learning Amazon AWS, Terraform, and ArgoCD.
