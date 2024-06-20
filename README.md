@@ -54,11 +54,11 @@ Architected and designed the `set-me-up` toolkit to automate macOS and Debian Li
 
 A command-line tool that acts as a wrapper around the official GitHub CLI (gh). It provides enhanced functionality for cloning repositories similar to GoLang while passing through all other commands to the official gh CLI.
 
-#### [`clion-gateway`](https://github.com/dotbrains/clion-gateway)
+#### [clion-gateway](https://github.com/dotbrains/clion-gateway)
 
 A portal to CLion using JetBrains Gateway and Docker.
 
-#### [`argparse`](https://github.com/dotbrains/argparse)
+#### [argparse](https://github.com/dotbrains/argparse)
 
 Java argument parsing done right.
 
