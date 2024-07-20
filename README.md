@@ -41,29 +41,6 @@ Welcome to my GitHub! I'm a software engineer with a passion for technology and 
 
 ## 🚀 Featured Projects
 
-### _DevOps_
-
-#### `set-me-up` toolkit
-
-Architected and designed the `set-me-up` toolkit to automate macOS and Debian Linux development environment setups, cutting the time from new machine setup to productive developer by 99%.
-- Developed [`set-me-up-docs`](https://github.com/dotbrains/set-me-up-docs) for comprehensive toolkit documentation.
-- Created [`set-me-up-installer`](https://github.com/dotbrains/set-me-up-installer) for universal installation on macOS and Debian-based systems, simplifying setup.
-- Implemented [`set-me-up-blueprint`](https://github.com/dotbrains/set-me-up-blueprint) for customizable and efficient environment setups.
-
-#### [ghw](https://github.com/dotbrains/ghw)
-
-A command-line tool that acts as a wrapper around the official GitHub CLI (gh). It provides enhanced functionality for cloning repositories similar to GoLang while passing through all other commands to the official gh CLI.
-
-#### [clion-gateway](https://github.com/dotbrains/clion-gateway)
-
-A portal to CLion using JetBrains Gateway and Docker.
-
-#### [argparse](https://github.com/dotbrains/argparse)
-
-Java argument parsing done right.
-
-More projects can be found at [DotBrains](https://github.com/orgs/dotbrains/repositories?type=all).
-
 ### _Full Stack Development_
 
 #### [Down to Network](https://github.com/nicholasadamou/down-to-network)
@@ -91,6 +68,29 @@ A service is designed to back up one or multiple Cloudant databases to a file an
 #### [Cloudant Restore Service](https://github.com/nicholasadamou/cloudant-restore-service)
 
 A service is designed to restore one or multiple Cloudant databases from a Cloud Object Storage (COS) bucket on IBM Cloud.
+
+### _DevOps_
+
+#### `set-me-up` toolkit
+
+Architected and designed the `set-me-up` toolkit to automate macOS and Debian Linux development environment setups, cutting the time from new machine setup to productive developer by 99%.
+- Developed [`set-me-up-docs`](https://github.com/dotbrains/set-me-up-docs) for comprehensive toolkit documentation.
+- Created [`set-me-up-installer`](https://github.com/dotbrains/set-me-up-installer) for universal installation on macOS and Debian-based systems, simplifying setup.
+- Implemented [`set-me-up-blueprint`](https://github.com/dotbrains/set-me-up-blueprint) for customizable and efficient environment setups.
+
+#### [ghw](https://github.com/dotbrains/ghw)
+
+A command-line tool that acts as a wrapper around the official GitHub CLI (gh). It provides enhanced functionality for cloning repositories similar to GoLang while passing through all other commands to the official gh CLI.
+
+#### [clion-gateway](https://github.com/dotbrains/clion-gateway)
+
+A portal to CLion using JetBrains Gateway and Docker.
+
+#### [argparse](https://github.com/dotbrains/argparse)
+
+Java argument parsing done right.
+
+More projects can be found at [DotBrains](https://github.com/orgs/dotbrains/repositories?type=all).
 
 ## 👥 Connect with Me
 - 📧 [Email](mailto:nicholas.adamou@outlook.com)
