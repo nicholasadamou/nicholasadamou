@@ -2,9 +2,6 @@
 
 Welcome to my GitHub! I'm a software engineer with a passion for technology and building impactful solutions that make the world better.
 
-- 🔭 I’m currently working with NS1 Connect to develop a bespoke Zero Trust Managed DNS SaaS solution that is to be used by IBM's global customer base.
-- 🌱 I’m currently learning Amazon AWS, Terraform, ArgoCD, Kubernetes, GoLang, and Python Django.
-
 ## 💼 Experience
 - **Senior Software Engineer [@IBM](https://github.com/ibm) ([NS1 Connect](https://www.ibm.com/products/ns1-connect))** (April 2024 – Present)
 - **Senior Software Engineer [@IBM](https://github.com/ibm)** (October 2023 – April 2024)
