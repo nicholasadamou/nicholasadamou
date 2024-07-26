@@ -16,8 +16,8 @@ welcome({
 console.log(`
 👨🏼‍💻Nicholas Adamou
 
-Currently, I am a full-stack software engineer focused on building accessible, human-centered financial products at IBM.
+Currently, I am a full-stack software engineer focused on making the world better through software.
 
 📖 GitHub:  https://github.com/nicholasadamou
-🔗 Website: https://nicholasadamou.com/
+🔗 LinkedIn: https://www.linkedin.com/in/nicholas-adamou/
 `);
