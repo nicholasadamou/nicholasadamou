@@ -87,6 +87,12 @@ A portal to CLion using JetBrains Gateway and Docker.
 
 Java argument parsing done right.
 
+#### [guardrails](https://github.com/dotbrains/guardrails) 🚧
+
+A modular, maintainable, customizable security-compliant DevOps strategy for use with Travis CI.
+
+This is a boilerplate for projects that wish to become more compliant with IT security standards and utilize a modular and maintainable DevOps strategy. It contains a set of sub-projects that can be used to create a new project from scratch that extends this paradigm.
+
 More projects can be found at [DotBrains](https://github.com/orgs/dotbrains/repositories?type=all).
 
 ## 👥 Connect with Me
