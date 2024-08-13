@@ -3,8 +3,8 @@
 Welcome to my GitHub! I'm a software engineer with a passion for technology and building impactful solutions that make the world better.
 
 ## 💼 Experience
-- **Software Engineer III [@IBM](https://github.com/ibm) ([NS1 Connect](https://www.ibm.com/products/ns1-connect))** (April 2024 – Present)
-- **Software Engineer III [@IBM](https://github.com/ibm)** (October 2023 – April 2024)
+- **Senior Software Engineer [@IBM](https://github.com/ibm) ([NS1 Connect](https://www.ibm.com/products/ns1-connect))** (April 2024 – Present)
+- **Senior Software Engineer [@IBM](https://github.com/ibm)** (October 2023 – April 2024)
 - **Software Engineer II [@IBM](https://github.com/ibm)** (May 2021 - October 2023)
 - **Software Engineer [@IBM](https://github.com/ibm)** (May 2020 - May 2021)
 
