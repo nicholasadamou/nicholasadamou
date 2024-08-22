@@ -99,6 +99,7 @@ More projects can be found at [DotBrains](https://github.com/orgs/dotbrains/repo
 - 📧 [Email](mailto:nicholas.adamou@outlook.com)
 - 👔 [LinkedIn](https://linkedin.com/in/nicholas-adamou)
 - 💻 [GitHub](https://github.com/nicholasadamou)
+- 🌐 [Website](https://nicholasadamou.com)
 
 Feel free to reach out if you're interested in collaborating or if you have any questions!
 
