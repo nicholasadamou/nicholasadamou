@@ -52,6 +52,10 @@ Vineyard Vines Sales is a web app that fetches and displays the latest Vineyard 
 
 A 3-piece setup used to demonstrate the use of ultra-fast Multipart File uploading.
 
+#### [Serverless React Browsers](https://github.com/nicholasadamou/serverless-react-browsers)
+
+A React-based application that utilizes a serverless lambda function which spawns a Chrome instance using Puppeteer and takes and returns a screenshot of a given website and displays the returned image on the appropriately CSS styled browser window (desktop or mobile).
+
 ### _Backend Development_
 
 #### [Spring Secrets Manager](https://github.com/nicholasadamou/spring-secrets-manager)
