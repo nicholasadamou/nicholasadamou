@@ -40,6 +40,10 @@ Welcome to my GitHub! I'm a software engineer with a passion for technology and 
 
 ### _Full Stack Development_
 
+#### [JEA BizDev Consulting](https://github.com/nicholasadamou/jeabizdev.com)
+
+The JEA BizDev Consulting website highlights the firm’s expertise in biotech business development, utilizing modern technologies for an optimal user experience. Built with Next.js for fast loading and improved SEO, it incorporates TypeScript for better code quality and Tailwind CSS for a responsive design. Framer Motion adds smooth animations, enhancing user engagement and attracting potential clients.
+
 #### [Down to Network](https://github.com/nicholasadamou/down-to-network)
 
 Down to Network is a dynamic web / mobile app optimized to connect new fellow IBMers to experienced IBMers through the power of matching. I designed the app to have a "tinder-like" feel where you sign up and create an account and tell the application about yourself and your intentions. The application uses an algorithm designed to connect users based on their role at IBM (Intern, manager, etc) and the types of people that they would like to meet. Once a user is signed up, they are presented with the home page where they are able to swipe right or left on each individual that the app deems you'd find interesting enough to network with. Once you 'match' with an individual, the application rightfully says, for example, 'Ginni is Down To Network!' and presents a match screen where you can email the individual.
