@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a software engineer with a passion for technology and building impactful solutions that make the world better.
 
 ## 💼 Experience
-- Senior Software Engineer [@lmco](https://github.com/lmco), (Space) (September 2024 - Present)
+- Senior Software Engineer [@lmco](https://github.com/lmco) (September 2024 - Present)
 - Senior Software Engineer [@Apple](https://github.com/apple) (Contract) (September 2024 - Present)
 - Senior Software Engineer [@IBM](https://github.com/ibm) ([NS1 Connect](https://www.ibm.com/products/ns1-connect)) (April 2024 – August 2024)
 - Senior Software Engineer [@IBM](https://github.com/ibm) (October 2023 – April 2024)
