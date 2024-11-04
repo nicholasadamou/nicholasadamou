@@ -14,7 +14,7 @@ welcome({
 });
 
 console.log(`
-👨🏼‍💻Nicholas Adamou
+👨🏼‍💻 Nicholas Adamou
 
 Currently, I am a full-stack software engineer focused on making the world better through software.
 
