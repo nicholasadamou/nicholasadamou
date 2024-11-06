@@ -1,3 +1,5 @@
+![github profile header](https://github.com/user-attachments/assets/f0dbb7b5-8405-4b88-bb3d-a1ba49211744)
+
 # Hi there, I'm Nick Adamou 👋
 
 Welcome to my GitHub! I'm a software engineer with a passion for technology and building impactful solutions that make the world better.
