@@ -1,5 +1,3 @@
-![GitHub Profile Header](https://github.com/user-attachments/assets/274501d4-de94-4239-b262-2208580935f4)
-
 # Hi there, I'm Nick Adamou 👋
 
 Welcome to my GitHub! I'm a software engineer with a passion for technology and building impactful solutions that make the world better.
@@ -57,8 +55,3 @@ npx nicholasadamou
 ```
 
 Not including how to use it globally because I'm not sure why you'd want this as a global command; that'd be creepy. 🤨
-
-## Thank you for stopping by!
-
-![footer](https://github.com/user-attachments/assets/8213b867-bfec-4234-9c81-609daf58f03f)
-
