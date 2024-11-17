@@ -1,6 +1,10 @@
 # Hi there, I'm Nick Adamou 👋
 
-Welcome to my GitHub! I'm a software engineer with a passion for technology and building impactful solutions that make the world better.
+![banner](https://github.com/user-attachments/assets/69be19a2-420f-42f3-8f90-b5cd3827c2e3)
+
+Welcome to My GitHub!
+
+I’m a dedicated software engineer with a passion for technology and a commitment to creating impactful solutions that improve lives. I thrive on tackling challenging problems and transforming innovative ideas into reality. Here, you’ll find a collection of my projects that showcase my skills in software development, collaboration, and continuous learning. Let’s build a better future together!
 
 ## 💼 Experience
 - Senior Software Engineer [@Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) (December 2024 - Present)
