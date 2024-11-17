@@ -1,4 +1,4 @@
-# Hi there, I'm Nick Adamou 👋
+# Hi there, I'm Nick Adamou 👋🏼
 
 ![banner](https://github.com/user-attachments/assets/69be19a2-420f-42f3-8f90-b5cd3827c2e3)
 
