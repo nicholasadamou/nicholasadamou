@@ -33,7 +33,7 @@ I am a seasoned Senior Software Engineer with over 5+ years of experience and a 
   - 💻 [set-me-up-docs](https://github.com/dotbrains/set-me-up-docs): Documentation for set-me-up which aims to simplify the dull setup and maintenance of Mac OS development environments.
   - 💽 [set-me-up-installer](https://github.com/dotbrains/set-me-up-installer): This is the binary used to install and configure 'set-me-up' on Mac and *debian* linux machines.
   - 🏗️ [set-me-up-blueprint](https://github.com/dotbrains/set-me-up-blueprint): A template to manage 'set-me-up' setups.
-  - 🔧 [utilities](https://github.com/dotbrains/utilities): Custom-made Bash functions & utilities; used highly in the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
+  - 🧰 [utilities](https://github.com/dotbrains/utilities): Custom-made Bash functions & utilities; used highly in the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
   - 👨🏼‍💻 [ghw](https://github.com/dotbrains/ghw): A command-line tool that acts as a wrapper around the official GitHub CLI (gh). It provides enhanced functionality for cloning repositories similar to GoLang while passing through all other commands to the official gh CLI.
  
 See more projects at [DotBrains](https://github.com/dotbrains).
@@ -55,7 +55,7 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 - 💡 [Next UI](https://github.com/nicholasadamou/next-ui): A collection of copy-paste interactive tailwind components for your projects.
 - 🖇️ [Next CV](https://github.com/nicholasadamou/next-cv): A personal CV website loosely based off of [react-cv](https://github.com/sbayd/react-cv) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. A working demo can be found [here](https://next-cv-nine.vercel.app).
   - 📎 [My CV](https://github.com/nicholasadamou/my-cv): This is _My_ CV that used [Next CV](https://github.com/nicholasadamou/next-cv) as a blueprint. A working demo can be found [here](https://nicholas-adamou-cv.vercel.app).
-- 🧰 [Cloud Tools](https://github.com/nicholasadamou/cloud-tools): A AWS cloud-based service that provides users with a platform to convert or compress files. A working demo can be found [here](https://cloud-tools.vercel.app).
+- ☁️ [Cloud Tools](https://github.com/nicholasadamou/cloud-tools): A AWS cloud-based service that provides users with a platform to convert or compress files. A working demo can be found [here](https://cloud-tools.vercel.app).
 
 See more projects by viewing my [repositories](https://github.com/nicholasadamou?tab=repositories).
 
