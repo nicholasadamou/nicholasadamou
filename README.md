@@ -1,10 +1,14 @@
 # Hi there, I'm Nick Adamou 👋🏼
 
+[![Blog Badge](https://img.shields.io/badge/-nicholasadamou.com/notes-000000?style=flat-square&logo=next.js&logoColor=white&link=https:/nicholasadamou.com/notes)](https://nicholasadamou.com/notes)
+[![GitHub Badge](https://img.shields.io/badge/-nicholasadamou-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nicholasadamou/)](https://github.com/nicholasadamou)
+[![Linkedin Badge](https://img.shields.io/badge/-nicholasadamou-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-adamou/)](https://www.linkedin.com/in/nicholas-adamou/)
+
 ![banner](https://github.com/user-attachments/assets/eb109e92-eb37-46fa-8be5-c9eb8277f2fd)
 
-Welcome to My GitHub!
+## 🔍 Who am I?
 
-I’m a dedicated software engineer with a passion for technology and a commitment to creating impactful solutions that improve lives. I thrive on tackling challenging problems and transforming innovative ideas into reality. Here, you’ll find a collection of my projects that showcase my skills in software development, collaboration, and continuous learning. Let’s build a better future together!
+I am a seasoned Senior Software Engineer with over 5+ years of experience and a [certified expert in cloud-native applications](https://www.credly.com/badges/e9d18622-5b2d-48db-ae99-b1cdb44c7f05), Python, Java, and JavaScript. I widely promote developer experience, testing culture, and mentorship. I have conducted workshops and mentoring circles; conducted over 20+ interviews; mentored and guided 20+ junior developers. I am passionate about driving impactful technical solutions, with a mission _to make the world better through code_. Currently, I'm a Senior Software Engineer at [Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) contributing to groundbreaking space missions as well as the lead maintainer of [dotbrains](https://dotbrains.dev) and the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
 
 ## 💼 Experience
 - Senior Software Engineer [@Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) (December 2024 - Present)
@@ -15,39 +19,20 @@ I’m a dedicated software engineer with a passion for technology and a commitme
 - Software Engineer [@IBM](https://github.com/ibm) (May 2020 - May 2021)
 
 ## 🎓 Education
-- [**Georgia Institute of Technology**](https://gatech.edu/) - [M.Sc. in Computer Science](https://www.parchment.com/u/award/6a9ef8b5cd81ba6e9befa8fd094e5a8e), specialized in computing systems and cybersecurity.
-- [**Cornell College**](https://cornellcollege.edu/) - [B.A. in Computer Science](https://drive.google.com/file/d/1ayD1gYOiD6pEq_mVtC64IUQYU1EB5yK2/view?usp=drive_link).
+- [**Georgia Institute of Technology**](https://gatech.edu/) - [M.Sc. in Computer Science](https://www.parchment.com/u/award/6a9ef8b5cd81ba6e9befa8fd094e5a8e), Specialized in software engineering, system design, and security.
+- [**Cornell College**](https://cornellcollege.edu/) - [B.A. in Computer Science](https://drive.google.com/file/d/1ayD1gYOiD6pEq_mVtC64IUQYU1EB5yK2/view?usp=drive_link), Graduated with a focus on algorithms and data structures.
 
-## 🔧 Skills
-- **Languages:**
+## 💾 Projects
 
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- 🧠 [dotbrains](https://dotbrains.dev): A collective dedicated to the craft of software engineering whose mission is to make the world better through software.
+  - [dotbrains.dev](https://github.com/nicholasadamou/dotbrains.dev): The official website of DotBrains built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. 
+  - 💻 [set-me-up](https://github.com/dotbrains/set-me-up-docs): Documentation for set-me-up which aims to simplify the dull setup and maintenance of Mac OS development environments.
+  - 💽 [set-me-up-installer](https://github.com/dotbrains/set-me-up-installer): This is the binary used to install and configure 'set-me-up' on Mac and *debian* linux machines.
+  - 🏗️ [set-me-up-blueprint](https://github.com/dotbrains/set-me-up-blueprint): A template to manage 'set-me-up' setups.
+  - 👨🏼‍💻 [ghw](https://github.com/dotbrains/ghw): A command-line tool that acts as a wrapper around the official GitHub CLI (gh). It provides enhanced functionality for cloning repositories similar to GoLang while passing through all other commands to the official gh CLI.
+- 🌉 [Spring Load Balancer](https://github.com/nicholasadamou/spring-boot-load-balancer-demo): A demonstration of a simple but functional load balancer implementation using Spring Boot, showcasing service discovery, health checking, and round-robin load distribution. Read the article on this project [here](https://www.nicholasadamou.com/notes/building-a-simple-load-balancer-with-spring-boot).
+- 💡 [Next UI](https://github.com/nicholasadamou/next-ui): A collection of copy-paste interactive tailwind components for your projects.
 
-- **Frameworks/Tools:**
-
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 👥 Connect with Me
-- 📧 [Email](mailto:nicholas.adamou@outlook.com)
-- 👔 [LinkedIn](https://linkedin.com/in/nicholas-adamou)
-- 💻 [GitHub](https://github.com/nicholasadamou)
-- 🌐 [Website](https://nicholasadamou.com)
 
 Feel free to reach out if you're interested in collaborating or if you have any questions!
 
