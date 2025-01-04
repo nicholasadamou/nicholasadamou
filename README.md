@@ -28,9 +28,10 @@ I am a seasoned Senior Software Engineer with over 5+ years of experience and a 
 
 - 🧠 [dotbrains](https://dotbrains.dev): A collective dedicated to the craft of software engineering whose mission is to make the world better through software.
   - [dotbrains.dev](https://github.com/nicholasadamou/dotbrains.dev): The official website of DotBrains built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. 
-  - 💻 [set-me-up](https://github.com/dotbrains/set-me-up-docs): Documentation for set-me-up which aims to simplify the dull setup and maintenance of Mac OS development environments.
+  - 💻 [set-me-up-docs](https://github.com/dotbrains/set-me-up-docs): Documentation for set-me-up which aims to simplify the dull setup and maintenance of Mac OS development environments.
   - 💽 [set-me-up-installer](https://github.com/dotbrains/set-me-up-installer): This is the binary used to install and configure 'set-me-up' on Mac and *debian* linux machines.
   - 🏗️ [set-me-up-blueprint](https://github.com/dotbrains/set-me-up-blueprint): A template to manage 'set-me-up' setups.
+  - 🔧 [utilities](https://github.com/dotbrains/utilities): Custom-made Bash functions & utilities; used highly in the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
   - 👨🏼‍💻 [ghw](https://github.com/dotbrains/ghw): A command-line tool that acts as a wrapper around the official GitHub CLI (gh). It provides enhanced functionality for cloning repositories similar to GoLang while passing through all other commands to the official gh CLI.
  
 See more projects at [DotBrains](https://github.com/dotbrains).
