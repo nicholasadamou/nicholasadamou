@@ -56,6 +56,14 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 - 🖇️ [Next CV](https://github.com/nicholasadamou/next-cv): A personal CV website loosely based off of [react-cv](https://github.com/sbayd/react-cv) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. A working demo can be found [here](https://next-cv-nine.vercel.app).
   - 📎 [My CV](https://github.com/nicholasadamou/my-cv): This is _My_ CV that used [Next CV](https://github.com/nicholasadamou/next-cv) as a blueprint. A working demo can be found [here](https://nicholas-adamou-cv.vercel.app).
 - ☁️ [Cloud Tools](https://github.com/nicholasadamou/cloud-tools): A AWS cloud-based service that provides users with a platform to convert or compress files. A working demo can be found [here](https://cloud-tools.vercel.app).
+- 🔑 [Spring Secrets Manager](https://github.com/nicholasadamou/spring-secrets-manager): Integrates Spring Boot v3 with IBM Cloud Secrets Manager for secure keystore retrieval. This repository ensures enhanced security in production-grade applications through efficient secret management.
+- 💿 [Cloudant Backup Service](https://github.com/nicholasadamou/cloudant-backup-service): This service is designed to back up one or multiple Cloudant databases to a file and uploaded to a Cloud Object Storage (COS) bucket on IBM Cloud.
+- 💿 [Cloudant Restore Service](https://github.com/nicholasadamou/cloudant-restore-service): This service is designed to restore one or multiple Cloudant databases from a Cloud Object Storage (COS) bucket on IBM Cloud.
+- 🧪 [humblescraper](https://github.com/nicholasadamou/humblescraper): A small script to retrieve Name, Price/Sale, and Time information from Humble Bundle store links for use in 🤖 or web-hooks. Uses selenium.
+- ™️ [stockmine](https://github.com/nicholasadamou/stockmine): Crowd-sourced stock analyzer and stock predictor using Google Natural Language API, Twitter, and Wikidata Query Service in order to determine how much, if at all, can emotions affect a stock price?
+- 📁 [Multipartfile Uploader Demo](https://github.com/nicholasadamou/multipartfile-uploader-demo): A 3-piece setup used to demonstrate the use of ultra-fast Multipart File uploading.
+- 🗃️ [Java FTP Service](https://github.com/nicholasadamou/java-ftp-service): Java middleman for sending files via SFTP to another server.
+- 🪟 [React iFrame](https://github.com/nicholasadamou/react-iframe): Have you ever needed to add headers to an iframe?
 
 See more projects by viewing my [repositories](https://github.com/nicholasadamou?tab=repositories).
 
