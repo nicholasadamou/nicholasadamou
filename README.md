@@ -50,6 +50,9 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 
 - 🌉 [Spring Load Balancer](https://github.com/nicholasadamou/spring-boot-load-balancer-demo): A demonstration of a simple but functional load balancer implementation using Spring Boot, showcasing service discovery, health checking, and round-robin load distribution. Read the article on this project [here](https://www.nicholasadamou.com/notes/building-a-simple-load-balancer-with-spring-boot).
 - 💡 [Next UI](https://github.com/nicholasadamou/next-ui): A collection of copy-paste interactive tailwind components for your projects.
+- 🖇️ [Next CV](https://github.com/nicholasadamou/next-cv): A personal CV website loosely based off of [react-cv](https://github.com/sbayd/react-cv) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. A working demo can be found [here](https://next-cv-nine.vercel.app).
+  - 📎 [My CV](https://github.com/nicholasadamou/my-cv): This is _My_ CV that used [Next CV](https://github.com/nicholasadamou/next-cv) as a blueprint. A working demo can be found [here](https://nicholas-adamou-cv.vercel.app).
+- 🧰 [Cloud Tools](https://github.com/nicholasadamou/cloud-tools): A AWS cloud-based service that provides users with a platform to convert or compress files. A working demo can be found [here](https://cloud-tools.vercel.app).
 
 See more projects by viewing my [repositories](https://github.com/nicholasadamou?tab=repositories).
 
