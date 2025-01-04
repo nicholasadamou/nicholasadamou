@@ -2,9 +2,9 @@
 
 [![Blog Badge](https://img.shields.io/badge/-nicholasadamou.com/notes-000000?style=flat-square&logo=next.js&logoColor=white&link=https:/nicholasadamou.com/notes)](https://nicholasadamou.com/notes)
 [![GitHub Badge](https://img.shields.io/badge/-nicholasadamou-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nicholasadamou)](https://github.com/nicholasadamou)
+[![CodePen Badge](https://img.shields.io/badge/-nicholasadamou-000000?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/nicholasadamou)](https://codepen.io/nicholasadamou)
 [![LeetCode Badge](https://img.shields.io/badge/-nicholasadamou-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/nicholasadamou)](https://leetcode.com/nicholasadamou)
 [![HackerRank Badge](https://img.shields.io/badge/-nicholasadamou-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/nicholas_adamou)](https://www.hackerrank.com/nicholas_adamou)
-[![CodePen Badge](https://img.shields.io/badge/-nicholasadamou-000000?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/nicholasadamou)](https://codepen.io/nicholasadamou)
 
 ![banner](https://github.com/user-attachments/assets/eb109e92-eb37-46fa-8be5-c9eb8277f2fd)
 
