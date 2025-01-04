@@ -24,15 +24,34 @@ I am a seasoned Senior Software Engineer with over 5+ years of experience and a 
 
 ## 💾 Projects
 
+### DotBrains
+
 - 🧠 [dotbrains](https://dotbrains.dev): A collective dedicated to the craft of software engineering whose mission is to make the world better through software.
   - [dotbrains.dev](https://github.com/nicholasadamou/dotbrains.dev): The official website of DotBrains built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. 
   - 💻 [set-me-up](https://github.com/dotbrains/set-me-up-docs): Documentation for set-me-up which aims to simplify the dull setup and maintenance of Mac OS development environments.
   - 💽 [set-me-up-installer](https://github.com/dotbrains/set-me-up-installer): This is the binary used to install and configure 'set-me-up' on Mac and *debian* linux machines.
   - 🏗️ [set-me-up-blueprint](https://github.com/dotbrains/set-me-up-blueprint): A template to manage 'set-me-up' setups.
   - 👨🏼‍💻 [ghw](https://github.com/dotbrains/ghw): A command-line tool that acts as a wrapper around the official GitHub CLI (gh). It provides enhanced functionality for cloning repositories similar to GoLang while passing through all other commands to the official gh CLI.
+ 
+See more projects at [DotBrains](https://github.com/dotbrains).
+
+### Daily Coding Problem
+
+- 🌥️ [Daily Coding Problem](https://github.com/daily-coding-problem): Attain exceptional coding interview skills through daily problem-solving.
+  - ✂️ [leetcode-scraper](https://github.com/daily-coding-problem/leetcode-scraper): A Python-based tool designed to fetch and store details from LeetCode study plans into a PostgreSQL database. This tool leverages Docker for easy setup and environment management.
+  - 🤖 [chatgpt-service](https://github.com/daily-coding-problem/chatgpt-service): A modular service that exposes an API to interact with ChatGPT.
+  - 🧪 [chatgpt-scraper](https://github.com/daily-coding-problem/chatgpt-scraper): A Selenium-based ChatGPT interaction automation tool. This script initializes a browser session, interacts with ChatGPT using predefined prompts, and facilitates automated conversations with ChatGPT. Ideal for fetching responses and conducting tests or demonstrations.
+  - 💾 [top-n-most-recently-asked-problems](https://github.com/daily-coding-problem/top-n-most-recently-asked-problems): A JavaScript-based tool designed to generate URLs for accessing LeetCode problems specifically categorized by company, difficulty, and timeframe. This tool allows users to focus their study on the most frequently asked questions in technical interviews.
+  - 📧 [email-service](https://github.com/daily-coding-problem/email-service): An application that provides an API service for generating HTML email templates. The service is built using Express.js and React, with Tailwind CSS for styling. It allows clients to submit problem descriptions, and the service will generate a complete HTML email using React components.
+
+See more projects at [Daily Coding Problem](https://github.com/daily-coding-problem).
+
+### Personal
+
 - 🌉 [Spring Load Balancer](https://github.com/nicholasadamou/spring-boot-load-balancer-demo): A demonstration of a simple but functional load balancer implementation using Spring Boot, showcasing service discovery, health checking, and round-robin load distribution. Read the article on this project [here](https://www.nicholasadamou.com/notes/building-a-simple-load-balancer-with-spring-boot).
 - 💡 [Next UI](https://github.com/nicholasadamou/next-ui): A collection of copy-paste interactive tailwind components for your projects.
 
+See more projects by viewing my [repositories](https://github.com/nicholasadamou?tab=repositories).
 
 Feel free to reach out if you're interested in collaborating or if you have any questions!
 
