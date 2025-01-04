@@ -1,6 +1,6 @@
 # Hi there, I'm Nick Adamou 👋🏼
 
-![banner](https://github.com/user-attachments/assets/69be19a2-420f-42f3-8f90-b5cd3827c2e3)
+![banner](https://github.com/user-attachments/assets/eb109e92-eb37-46fa-8be5-c9eb8277f2fd)
 
 Welcome to My GitHub!
 
