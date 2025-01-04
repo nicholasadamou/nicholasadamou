@@ -64,6 +64,14 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 - 📁 [Multipartfile Uploader Demo](https://github.com/nicholasadamou/multipartfile-uploader-demo): A 3-piece setup used to demonstrate the use of ultra-fast Multipart File uploading.
 - 🗃️ [Java FTP Service](https://github.com/nicholasadamou/java-ftp-service): Java middleman for sending files via SFTP to another server.
 - 🪟 [React iFrame](https://github.com/nicholasadamou/react-iframe): Have you ever needed to add headers to an iframe?
+- 📁 [Chunked File Upload POC](https://github.com/nicholasadamou/Chunked-File-Upload-POC): Dynamically compress and chunkify files for upload using React and Spring Boot.
+- 💡 [StoreContext](https://github.com/nicholasadamou/StoreContext): A ref-based generic context for ultra fast React component updates.
+- 🔍 [Serverless React Browsers](https://github.com/nicholasadamou/serverless-react-browsers): A React-based application that utilizes a serverless lambda function which spawns a Chrome instance using Puppeteer and takes and returns a screenshot of a given website and displays the returned image on the appropriately CSS styled browser window (desktop or mobile).
+- 💿 [Storage](https://github.com/nicholasadamou/storage): Have you ever needed to listen to localStorage or sessionStorage to change from within the same tab?
+- 💻 [Serverless GitHub API Starter Kit](https://github.com/nicholasadamou/serverless-github-api-starter-kit): A starter project for accessing the GitHub API using GraphQL through a serverless WebTasks instance.
+- 🔑 [JWT Spring Security Demo](https://github.com/nicholasadamou/jwt-spring-security-demo): Example project to show how to use JWT in combination with Spring Security to protect REST API endpoints.
+- [MiniPwner](https://github.com/nicholasadamou/minipwner): A script to configure a TP-Link MR3040 running OpenWRT into a simple, yet powerful penetration-testing "dropbox".
+- 🍿 [Plex s3fs](https://github.com/nicholasadamou/plex-s3fs): A Plex Media Server that is backed by an Amazon S3 Bucket.
 
 See more projects by viewing my [repositories](https://github.com/nicholasadamou?tab=repositories).
 
