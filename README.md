@@ -24,7 +24,7 @@ I am a seasoned Senior Software Engineer with over 5+ years of experience and a 
 - [**Georgia Institute of Technology**](https://gatech.edu/) - [M.Sc. in Computer Science](https://www.parchment.com/u/award/6a9ef8b5cd81ba6e9befa8fd094e5a8e), Specialized in software engineering, system design, and security.
 - [**Cornell College**](https://cornellcollege.edu/) - [B.A. in Computer Science](https://drive.google.com/file/d/1ayD1gYOiD6pEq_mVtC64IUQYU1EB5yK2/view?usp=drive_link), Graduated with a focus on algorithms and data structures.
 
-## 💾 Projects
+## 🏛️ Organizations
 
 ### DotBrains
 
@@ -49,9 +49,9 @@ See more projects at [DotBrains](https://github.com/dotbrains).
 
 See more projects at [Daily Coding Problem](https://github.com/daily-coding-problem).
 
-### Personal
+## 💾 Projects
 
-#### Spring Projects
+#### Spring
 
 - 🌉 [Spring Load Balancer](https://github.com/nicholasadamou/spring-boot-load-balancer-demo): A demonstration of a simple but functional load balancer implementation using Spring Boot, showcasing service discovery, health checking, and round-robin load distribution. Read the article on this project [here](https://www.nicholasadamou.com/notes/building-a-simple-load-balancer-with-spring-boot).
 - 🔑 [JWT Spring Security Demo](https://github.com/nicholasadamou/jwt-spring-security-demo): Example project to show how to use JWT in combination with Spring Security to protect REST API endpoints.
@@ -60,14 +60,14 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 - 🔑 [Spring Secrets Manager](https://github.com/nicholasadamou/spring-secrets-manager): Integrates Spring Boot v3 with IBM Cloud Secrets Manager for secure keystore retrieval. This repository ensures enhanced security in production-grade applications through efficient secret management.
 - 📁 [Chunked File Upload POC](https://github.com/nicholasadamou/Chunked-File-Upload-POC): Dynamically compress and chunkify files for upload using React and Spring Boot.
 
-#### Next.js Projects
+#### Next.js
 
 - 💡 [Next UI](https://github.com/nicholasadamou/next-ui): A collection of copy-paste interactive tailwind components for your projects.  You can browse the components [here](https://next-ui-orcin-chi.vercel.app).
 - 🖇️ [Next CV](https://github.com/nicholasadamou/next-cv): A personal CV website loosely based off of [react-cv](https://github.com/sbayd/react-cv) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. A working demo can be found [here](https://next-cv-nine.vercel.app).
   - 📎 [My CV](https://github.com/nicholasadamou/my-cv): This is _My_ CV that used [Next CV](https://github.com/nicholasadamou/next-cv) as a blueprint. A working demo can be found [here](https://nicholas-adamou-cv.vercel.app).
 - ☁️ [Cloud Tools](https://github.com/nicholasadamou/cloud-tools): A AWS cloud-based service that provides users with a platform to convert or compress files. A working demo can be found [here](https://cloud-tools.vercel.app).
 
-#### Cloud and Serverless Projects
+#### Cloud and Serverless
 
 - 💿 [Cloudant Backup Service](https://github.com/nicholasadamou/cloudant-backup-service): This service is designed to back up one or multiple Cloudant databases to a file and uploaded to a Cloud Object Storage (COS) bucket on IBM Cloud.
 - 💿 [Cloudant Restore Service](https://github.com/nicholasadamou/cloudant-restore-service): This service is designed to restore one or multiple Cloudant databases from a Cloud Object Storage (COS) bucket on IBM Cloud.
@@ -75,19 +75,19 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 - 🍿 [Plex s3fs](https://github.com/nicholasadamou/plex-s3fs): A Plex Media Server that is backed by an Amazon S3 Bucket.
 - 💻 [Serverless GitHub API Starter Kit](https://github.com/nicholasadamou/serverless-github-api-starter-kit): A starter project for accessing the GitHub API using GraphQL through a serverless WebTasks instance.
 
-#### React & JavaScript Projects
+#### React & JavaScript
 
 - 🪟 [React iFrame](https://github.com/nicholasadamou/react-iframe): Have you ever needed to add headers to an iframe?
 - 💡 [StoreContext](https://github.com/nicholasadamou/StoreContext): A ref-based generic context for ultra fast React component updates.
 - 💿 [Storage](https://github.com/nicholasadamou/storage): Have you ever needed to listen to localStorage or sessionStorage to change from within the same tab?
 
-#### Python Projects
+#### Python
 
 - 🧪 [humblescraper](https://github.com/nicholasadamou/humblescraper): A small script to retrieve Name, Price/Sale, and Time information from Humble Bundle store links for use in 🤖 or web-hooks. Uses selenium.
 - 📈 [stockmine](https://github.com/nicholasadamou/stockmine): Crowd-sourced stock analyzer and stock predictor using Google Natural Language API, Twitter, and Wikidata Query Service in order to determine how much, if at all, can emotions affect a stock price?
 - 🐍 [Databricks](https://github.com/nicholasadamou/databricks): A pythonic data structures library featuring stacks, queues, hash maps, linked lists and more.
 
-#### Security Projects
+#### Security
 
 - 🔑 [MiniPwner](https://github.com/nicholasadamou/minipwner): A script to configure a TP-Link MR3040 running OpenWRT into a simple, yet powerful penetration-testing "dropbox".
 
