@@ -85,6 +85,7 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 
 - 🧪 [humblescraper](https://github.com/nicholasadamou/humblescraper): A small script to retrieve Name, Price/Sale, and Time information from Humble Bundle store links for use in 🤖 or web-hooks. Uses selenium.
 - 📈 [stockmine](https://github.com/nicholasadamou/stockmine): Crowd-sourced stock analyzer and stock predictor using Google Natural Language API, Twitter, and Wikidata Query Service in order to determine how much, if at all, can emotions affect a stock price?
+- 🐍 [Databricks](https://github.com/nicholasadamou/databricks): A pythonic data structures library featuring stacks, queues, hash maps, linked lists and more.
 
 #### Security Projects
 
