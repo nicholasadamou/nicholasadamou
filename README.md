@@ -1,16 +1,18 @@
-# Hi there, I'm Nick Adamou 👋🏼 ![](https://komarev.com/ghpvc/?username=nciholasadamou&base=2000&color=2EC866&style=flat-square&abbreviated=true)
+# Hi there, I'm Nick Adamou 👋🏼
 
 [![Blog Badge](https://img.shields.io/badge/-nicholasadamou.com/notes-000000?style=flat-square&logo=next.js&logoColor=white&link=https:/nicholasadamou.com/notes)](https://nicholasadamou.com/notes)
 [![GitHub Badge](https://img.shields.io/badge/-nicholasadamou-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/nicholasadamou)](https://github.com/nicholasadamou)
 [![CodePen Badge](https://img.shields.io/badge/-nicholasadamou-000000?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/nicholasadamou)](https://codepen.io/nicholasadamou)
-[![LeetCode Badge](https://img.shields.io/badge/-nicholasadamou-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/nicholasadamou)](https://leetcode.com/nicholasadamou)
-[![HackerRank Badge](https://img.shields.io/badge/-nicholasadamou-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/nicholas_adamou)](https://www.hackerrank.com/nicholas_adamou)
+[![LeetCode](https://img.shields.io/badge/nicholasadamou-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nicholasadamou)
+[![Hackerrank](https://img.shields.io/badge/-nicholasadamou-000000?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nicholas_adamou)
 
 ![banner](https://github.com/user-attachments/assets/eb109e92-eb37-46fa-8be5-c9eb8277f2fd)
 
 ## 🔍 Who am I?
 
 I am a seasoned Senior Software Engineer with over 5+ years of experience and a [certified expert in cloud-native applications](https://www.credly.com/badges/e9d18622-5b2d-48db-ae99-b1cdb44c7f05), Python, Java, and JavaScript. I widely promote developer experience, testing culture, and mentorship. I have conducted workshops and mentoring circles; conducted over 20+ interviews; mentored and guided 20+ junior developers. I am passionate about driving impactful technical solutions, with a mission _to make the world better through code_. Currently, I'm a Senior Software Engineer at [Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) contributing to groundbreaking space missions as well as the lead maintainer of [dotbrains](https://dotbrains.dev) and the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nicholasadamou) [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nicholasadamou)
 
 <details>
 <summary>Expand this to view my <code>LeetCode</code> stats.</summary><br>
