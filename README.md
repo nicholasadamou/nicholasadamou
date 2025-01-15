@@ -27,7 +27,7 @@ I am a seasoned Senior Software Engineer with over 5+ years of experience and a 
 - Software Engineer [@IBM](https://github.com/ibm) (May 2020 - May 2021)
 
 ## 🎓 Education
-- [**Georgia Institute of Technology**](https://gatech.edu/) - [M.Sc. in Computer Science](https://www.parchment.com/u/award/6a9ef8b5cd81ba6e9befa8fd094e5a8e), Specialized in software engineering, system design, and security.
+- [**Georgia Institute of Technology**](https://gatech.edu/) - [M.Sc. in Computer Science](https://www.parchment.com/u/award/6a9ef8b5cd81ba6e9befa8fd094e5a8e), Specialized in system design, and security.
 - [**Cornell College**](https://cornellcollege.edu/) - [B.A. in Computer Science](https://drive.google.com/file/d/1ayD1gYOiD6pEq_mVtC64IUQYU1EB5yK2/view?usp=drive_link), Graduated with a focus on algorithms and data structures.
 
 ## 🏛️ Organizations
