@@ -37,13 +37,13 @@ I am a seasoned Senior Software Engineer with over 5+ years of experience and a 
 ### DotBrains
 
 - 🧠 [dotbrains](https://dotbrains.dev): A collective dedicated to the craft of software engineering whose mission is to make the world better through software.
-  - [dotbrains.dev](https://github.com/nicholasadamou/dotbrains.dev): The official website of DotBrains built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. 
+  - [dotbrains.dev](https://github.com/nicholasadamou/dotbrains.dev): The official website of DotBrains built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
   - 💻 [set-me-up-docs](https://github.com/dotbrains/set-me-up-docs): Documentation for set-me-up which aims to simplify the dull setup and maintenance of Mac OS development environments.
   - 💽 [set-me-up-installer](https://github.com/dotbrains/set-me-up-installer): This is the binary used to install and configure 'set-me-up' on Mac and *debian* linux machines.
   - 🏗️ [set-me-up-blueprint](https://github.com/dotbrains/set-me-up-blueprint): A template to manage 'set-me-up' setups.
   - 🧰 [utilities](https://github.com/dotbrains/utilities): Custom-made Bash functions & utilities; used highly in the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
   - 👨🏼‍💻 [ghw](https://github.com/dotbrains/ghw): A command-line tool that acts as a wrapper around the official GitHub CLI (gh). It provides enhanced functionality for cloning repositories similar to GoLang while passing through all other commands to the official gh CLI.
- 
+
 See more projects at [DotBrains](https://github.com/dotbrains).
 
 ### Daily Coding Problem
@@ -116,7 +116,7 @@ Not including how to use it globally because I'm not sure why you'd want this as
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicholasadamou/nicholasadamou/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicholasadamou/nicholasadamou/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicholasadamou/nicholasadamou/assets/github-contribution-grid-snake.svg">
 </picture>
