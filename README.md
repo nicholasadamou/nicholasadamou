@@ -13,7 +13,7 @@
 I am a seasoned Senior Software Engineer with over 5+ years of experience and a [certified expert in cloud-native applications](https://www.credly.com/badges/e9d18622-5b2d-48db-ae99-b1cdb44c7f05), Python, Java, and JavaScript. I widely promote developer experience, testing culture, and mentorship. I have conducted workshops and mentoring circles; conducted over 20+ interviews; mentored and guided 20+ junior developers. I am passionate about driving impactful technical solutions, with a mission _to make the world better through code_. Currently, I'm a Senior Software Engineer at [Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) contributing to groundbreaking space missions as well as the lead maintainer of [dotbrains](https://dotbrains.dev) and the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
 
 <details>
-<summary>Expand this to view my leetcode stats.</summary><br>
+<summary>Expand this to view my <code>LeetCode</code> stats.</summary><br>
 <img src="https://leetcard.jacoblin.cool/nicholasadamou?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"><br><img src="https://leetcard.jacoblin.cool/nicholasadamou?theme=nord&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats">
 <br>
 </details>
