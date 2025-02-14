@@ -60,7 +60,7 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 
 ### Transute Games
 
-- 🧪 [Transmute Games](https://github.com/transmute-games)
+- 🧪 [Transmute Games](https://github.com/transmute-games): A collective dedicated to empowering game developers with unique and easy-to-use tools for creating amazing 2D pixel games.
   - 💎 [Transmute Core](http://github.com/transmute-games/transmute-core): Hardware-accelerated pixel rendering engine built usign Java.
   - 🧰 [Transmute Starter](https://github.com/transmute-games/transmute-starter): A minimal, no fluff, starter for using Transmute Core Pixel Rendering Engine.
 
