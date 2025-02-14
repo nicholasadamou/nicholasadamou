@@ -63,6 +63,8 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 - [From Scratch](https://github.com/nicholasadamou/from-scratch): A collection of simplified implementations of complex systems, built from scratch to understand their core principles.
   - 🌉 [Load Balancer](https://github.com/nicholasadamou/spring-boot-load-balancer-demo): A demonstration of a simple but functional load balancer implementation using Spring Boot, showcasing service discovery, health checking, and round-robin load distribution. Read the article on this project [here](https://www.nicholasadamou.com/notes/building-a-simple-load-balancer-with-spring-boot).
   - 🐍 [Databricks](https://github.com/nicholasadamou/databricks): A pythonic data structures library featuring stacks, queues, hash maps, linked lists and more. Read the article on this project [here](https://www.nicholasadamou.com/notes/a-deeper-than-not-dive-into-two-sum#before-we-begin).
+ 
+See more projects at [From Scratch](https://github.com/nicholasadamou/from-scratch).
 
 ## 💾 Projects
 
