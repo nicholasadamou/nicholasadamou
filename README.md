@@ -58,11 +58,16 @@ See more projects at [DotBrains](https://github.com/dotbrains).
 
 See more projects at [Daily Coding Problem](https://github.com/daily-coding-problem).
 
+### From Scratch
+
+- [From Scratch](https://github.com/nicholasadamou/from-scratch): A collection of simplified implementations of complex systems, built from scratch to understand their core principles.
+  - 🌉 [Load Balancer](https://github.com/nicholasadamou/spring-boot-load-balancer-demo): A demonstration of a simple but functional load balancer implementation using Spring Boot, showcasing service discovery, health checking, and round-robin load distribution. Read the article on this project [here](https://www.nicholasadamou.com/notes/building-a-simple-load-balancer-with-spring-boot).
+  - 🐍 [Databricks](https://github.com/nicholasadamou/databricks): A pythonic data structures library featuring stacks, queues, hash maps, linked lists and more. Read the article on this project [here](https://www.nicholasadamou.com/notes/a-deeper-than-not-dive-into-two-sum#before-we-begin).
+
 ## 💾 Projects
 
 #### Spring
 
-- 🌉 [Spring Load Balancer](https://github.com/nicholasadamou/spring-boot-load-balancer-demo): A demonstration of a simple but functional load balancer implementation using Spring Boot, showcasing service discovery, health checking, and round-robin load distribution. Read the article on this project [here](https://www.nicholasadamou.com/notes/building-a-simple-load-balancer-with-spring-boot).
 - 🔑 [JWT Spring Security Demo](https://github.com/nicholasadamou/jwt-spring-security-demo): Example project to show how to use JWT in combination with Spring Security to protect REST API endpoints.
 - 📁 [Multipartfile Uploader Demo](https://github.com/nicholasadamou/multipartfile-uploader-demo): A 3-piece setup used to demonstrate the use of ultra-fast Multipart File uploading.
 - 🗃️ [Java FTP Service](https://github.com/nicholasadamou/java-ftp-service): Java middleman for sending files via SFTP to another server.
@@ -93,7 +98,6 @@ See more projects at [Daily Coding Problem](https://github.com/daily-coding-prob
 
 - 🧪 [humblescraper](https://github.com/nicholasadamou/humblescraper): A small script to retrieve Name, Price/Sale, and Time information from Humble Bundle store links for use in 🤖 or web-hooks. Uses selenium.
 - 📈 [stockmine](https://github.com/nicholasadamou/stockmine): Crowd-sourced stock analyzer and stock predictor using Google Natural Language API, Twitter, and Wikidata Query Service in order to determine how much, if at all, can emotions affect a stock price?
-- 🐍 [Databricks](https://github.com/nicholasadamou/databricks): A pythonic data structures library featuring stacks, queues, hash maps, linked lists and more.
 
 #### Security
 
