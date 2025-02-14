@@ -58,6 +58,14 @@ See more projects at [DotBrains](https://github.com/dotbrains).
 
 See more projects at [Daily Coding Problem](https://github.com/daily-coding-problem).
 
+### Transute Games
+
+- 🧪 [Transmute Games](https://github.com/transmute-games)
+  - 💎 [Transmute Core](http://github.com/transmute-games/transmute-core): Hardware-accelerated pixel rendering engine built usign Java.
+  - 🧰 [Transmute Starter](https://github.com/transmute-games/transmute-starter): A minimal, no fluff, starter for using Transmute Core Pixel Rendering Engine.
+
+See more projects at [Transmute Games](https://github.com/transmute-games).
+
 ### From Scratch
 
 - [From Scratch](https://github.com/nicholasadamou/from-scratch): A collection of simplified implementations of complex systems, built from scratch to understand their core principles.
