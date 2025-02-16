@@ -100,7 +100,7 @@ See more projects at [From Scratch](https://github.com/nicholasadamou/from-scrat
 
 #### React & JavaScript
 
-- 🎨 [Squash](https://github.com/nicholasadamou/squash): A modern, browser-based image compression tool that leverages WebAssembly for high-performance image optimization. A working demo can be found [here](https://squash-omega.vercel.app).
+- 🎨 [Squash](https://github.com/nicholasadamou/squash): A modern, browser-based image compression tool that leverages WebAssembly for high-performance image optimization. A working demo can be found [here](https://squash-omega.vercel.app). Read the [project overview](https://www.nicholasadamou.com/projects/squash) for more details. 
 - 🪟 [React iFrame](https://github.com/nicholasadamou/react-iframe): Have you ever needed to add headers to an iframe?
 - 💡 [StoreContext](https://github.com/nicholasadamou/StoreContext): A ref-based generic context for ultra fast React component updates.
 - 💿 [Storage](https://github.com/nicholasadamou/storage): Have you ever needed to listen to localStorage or sessionStorage to change from within the same tab?
