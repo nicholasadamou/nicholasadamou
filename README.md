@@ -104,6 +104,7 @@ See more projects at [From Scratch](https://github.com/nicholasadamou/from-scrat
 - 🪟 [React iFrame](https://github.com/nicholasadamou/react-iframe): Have you ever needed to add headers to an iframe?
 - 💡 [StoreContext](https://github.com/nicholasadamou/StoreContext): A ref-based generic context for ultra fast React component updates.
 - 💿 [Storage](https://github.com/nicholasadamou/storage): Have you ever needed to listen to localStorage or sessionStorage to change from within the same tab?
+- 📚 [Kindle Book Downloader](https://gist.github.com/nicholasadamou/cfbadacf8fe1705683cb7d3b775379a2): 📥 Download all your Kindle books before Feb 26, 2025! This script saves you hours by automating the process of downloading hundreds or even thousands of Kindle books from your Amazon Content Library. Instead of manually clicking through pages, opening menus, and selecting download options for each book, this script handles everything for you!
 
 #### Python
 
