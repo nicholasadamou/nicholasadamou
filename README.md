@@ -89,7 +89,7 @@ See more projects at [From Scratch](https://github.com/nicholasadamou/from-scrat
 - 💡 [Next UI](https://github.com/nicholasadamou/next-ui): A collection of copy-pastable interactive tailwind components for your projects.  You can browse the components [here](https://next-ui-orcin-chi.vercel.app).
 - 🖇️ [Next CV](https://github.com/nicholasadamou/next-cv): A personal CV website loosely based off of [react-cv](https://github.com/sbayd/react-cv) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. A working demo can be found [here](https://next-cv-nine.vercel.app).
 - ☁️ [Cloud Tools](https://github.com/nicholasadamou/cloud-tools): A AWS cloud-based service that provides users with a platform to convert or compress files. A working demo can be found [here](https://cloud-tools.vercel.app).
-- 📁 [Learn Git](https://github.com/nicholasadamou/learn-git): A free, open-source platform crafted specifically for beginners to master Git and GitHub. Designed with simplicity and ease of understanding in mind, this platform provides an accessible entry point for anyone looking to enhance their version control skills. A working demo can be found [here](https://learn-git-five.vercel.app).
+- 📁 [Learn Git](https://github.com/nicholasadamou/learn-git): A free, open-source platform crafted specifically for beginners to master Git and GitHub. Designed with simplicity and ease of understanding in mind, this platform provides an accessible entry point for anyone looking to enhance their version control skills. A working demo can be found [here](https://learn-git-five.vercel.app). Read the article on this project [here](https://www.nicholasadamou.com/projects/learn-git).
 
 #### Cloud and Serverless
 
