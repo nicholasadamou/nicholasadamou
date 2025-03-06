@@ -6,7 +6,7 @@
 [![LeetCode](https://img.shields.io/badge/nicholasadamou-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nicholasadamou)
 [![Hackerrank](https://img.shields.io/badge/-nicholasadamou-000000?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nicholas_adamou)
 
-![banner](https://github.com/user-attachments/assets/9e621320-22ae-4ea4-b92f-43e0b07ecca1)
+![banner](https://github.com/user-attachments/assets/933593df-7f8b-4942-81ee-23b642f30087)
 
 ## 🔍 Who am I?
 
