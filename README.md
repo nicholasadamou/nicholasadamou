@@ -124,6 +124,7 @@ See more projects at [PrivyDNS](https://github.com/PrivyDNS).
 #### Security
 
 - 🔑 [MiniPwner](https://github.com/nicholasadamou/minipwner): A script to configure a TP-Link MR3040 running OpenWRT into a simple, yet powerful penetration-testing "dropbox".
+- 🔐 [AVScan API](https://github.com/nicholasadamou/avscan-api): A robust Node.js Express API that provides antivirus scanning capabilities using ClamAV antivirus engine.
 
 See more projects by viewing my [repositories](https://github.com/nicholasadamou?tab=repositories).
 
