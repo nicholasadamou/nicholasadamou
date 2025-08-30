@@ -84,6 +84,13 @@ See more projects at [PrivyDNS](https://github.com/PrivyDNS).
 
 ## 💾 Projects
 
+#### My Personal Website
+
+- 💻 [nicholasadamou.com](https://github.com/nicholasadamou/nicholasadamou.com): The fourth iteration of my personal website, built with Next.js.
+  - 🪟 [unsplash-node-utiltiies](https://github.com/nicholasadamou/unsplash-node-utilities): Node.js utilities for Unsplash image management and caching.
+  - 🎭 [playwright-unsplash-downloader](https://github.com/nicholasadamou/playwright-unsplash-downloader): Advanced Playwright-based image downloader for Unsplash with browser automation.
+  - 🎭 [playwright-vsco-downloader](https://github.com/nicholasadamou/playwright-vsco-downloader): A sophisticated TypeScript-based Playwright service for downloading images from VSCO using browser automation. Built with a modular service architecture.
+
 #### Spring
 
 - 🔑 [JWT Spring Security Demo](https://github.com/nicholasadamou/jwt-spring-security-demo): Example project to show how to use JWT in combination with Spring Security to protect REST API endpoints.
