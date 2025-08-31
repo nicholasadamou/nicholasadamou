@@ -82,6 +82,14 @@ See more projects at [From Scratch](https://github.com/nicholasadamou/from-scrat
 
 See more projects at [PrivyDNS](https://github.com/PrivyDNS).
 
+### You Build It
+
+- [youbuildit](https://github.com/youbuildit): Helping you become a better software engineer through coding challenges that build real applications.
+  - 🏆 [challenges](https://github.com/youbuildit/challenges): Challenges that are available for curious developers of You Build It.
+  - 🧑🏼‍💻 [youbuildit](https://github.com/youbuildit/youbuildit.dev): A Next.js web application used to help curious developers level up their skills through coding challenges that build real applications.
+
+See more projects at [youbuildit](https://github.com/youbuildit).
+
 ## 💾 Projects
 
 #### My Personal Website
