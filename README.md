@@ -6,11 +6,11 @@
 [![LeetCode](https://img.shields.io/badge/nicholasadamou-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nicholasadamou)
 [![Hackerrank](https://img.shields.io/badge/-nicholasadamou-000000?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nicholas_adamou)
 
-![banner](https://github.com/user-attachments/assets/933593df-7f8b-4942-81ee-23b642f30087)
+<img width="1032" height="310" alt="GitHub Profile Banner" src="https://github.com/user-attachments/assets/533340bc-6fb1-4f61-b642-491e34a0f5da" />
 
 ## 🔍 Who am I?
 
-I am a seasoned Senior Software Engineer with over 5+ years of experience and a [certified expert in cloud-native applications](https://www.credly.com/badges/e9d18622-5b2d-48db-ae99-b1cdb44c7f05), Python, Java, and JavaScript. I widely promote developer experience, testing culture, and mentorship. I have conducted workshops and mentoring circles; conducted over 20+ interviews; mentored and guided 20+ junior developers. I am passionate about driving impactful technical solutions, with a mission _to make the world better through code_. Currently, I'm a Senior Software Engineer at [Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) contributing to and supporting critical space software projects, ensuring the security and reliability of LM/US space missions as well as the lead maintainer of [dotbrains](https://dotbrains.dev) and the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
+I am a seasoned Senior Software Engineer with over 5+ years of experience and a [certified expert in cloud-native applications](https://www.credly.com/badges/e9d18622-5b2d-48db-ae99-b1cdb44c7f05), Python, Java, and JavaScript. I widely promote developer experience, testing culture, and mentorship. I have conducted workshops and mentoring circles; conducted over 20+ interviews; mentored and guided 20+ junior developers. I am passionate about driving impactful technical solutions, with a mission _to make the world better through code_. Currently, I'm a Senior Software Engineer at [Onebrief](https://github.com/onebrief) building the operating system of modern command bringing together AI-enabled capabilities, modern technologies, decision intelligence, and collaborative tools as well as the lead maintainer of [dotbrains](https://dotbrains.dev) and the [set-me-up](https://github.com/dotbrains/set-me-up-docs) ecosystem.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nicholasadamou) [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nicholasadamou)
 
@@ -21,7 +21,8 @@ I am a seasoned Senior Software Engineer with over 5+ years of experience and a 
 </details>
 
 ## 💼 Experience
-- Senior Software Engineer [@Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) (December 2024 - Present)
+- Senior Software Engineer [@Onebrief](https://github.com/onebrief) (Feburary 2026 - Present)
+- Senior Software Engineer [@Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) (December 2024 - Feburary 2026)
 - Senior Software Engineer [@Apple](https://github.com/apple) (Contract) (September 2024 - November 2024)
 - Senior Software Engineer [@IBM](https://github.com/ibm) ([NS1 Connect](https://www.ibm.com/products/ns1-connect)) (April 2024 – August 2024)
 - Senior Software Engineer [@IBM](https://github.com/ibm) (October 2023 – April 2024)
