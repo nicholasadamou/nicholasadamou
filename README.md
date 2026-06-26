@@ -75,13 +75,6 @@ See more projects at [Transmute Games](https://github.com/transmute-games).
  
 See more projects at [From Scratch](https://github.com/nicholasadamou/from-scratch).
 
-### PrivyDNS
-
-- [PrivyDNS](https://github.com/PrivyDNS): An organization dedicated to enhancing internet security and privacy through innovative DNS solutions.
-  - 🌎 [PrivyDNS](https://github.com/PrivyDNS/PrivyDNS): A Python library designed to securely query DNS records over encrypted protocols including DNS over HTTPS (DoH), DNS over TLS (DoT), and DNSCrypt. It supports both synchronous and asynchronous DNS queries with features such as caching, retry mechanisms, logging, and encryption. It provides developers with an easy-to-use interface to enhance DNS security, reliability, and performance. 
-
-See more projects at [PrivyDNS](https://github.com/PrivyDNS).
-
 ### You Build It
 
 - [youbuildit](https://github.com/youbuildit): Helping you become a better software engineer through coding challenges that build real applications.
