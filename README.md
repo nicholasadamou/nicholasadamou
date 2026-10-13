@@ -10,7 +10,7 @@
 
 ## 🔍 Who am I?
 
-I am a seasoned Senior Agentic Software Engineer with over 6+ years of experience and a [certified expert in cloud-native applications](https://www.credly.com/badges/e9d18622-5b2d-48db-ae99-b1cdb44c7f05), Python, Java, and JavaScript. I widely promote developer experience, testing culture, and mentorship. I have conducted workshops and mentoring circles; conducted over 20+ interviews; mentored and guided 20+ junior developers. I am passionate about driving impactful technical solutions, with a mission _to make the world better through code_. Currently, I'm a Senior Software Engineer at [Onebrief](https://github.com/onebrief) building the operating system of modern command bringing together AI-enabled capabilities, modern technologies, decision intelligence, and collaborative tools as well as the lead maintainer of [smeltery](https://github.com/smeltery) and the [set-me-up](https://github.com/smeltery/set-me-up-docs) ecosystem.
+I am a seasoned Senior Agentic Software Engineer with over 6+ years of experience and a [certified expert in cloud-native applications](https://www.credly.com/badges/e9d18622-5b2d-48db-ae99-b1cdb44c7f05), Python, Java, and JavaScript. I widely promote developer experience, testing culture, and mentorship. I have conducted workshops and mentoring circles; conducted over 20+ interviews; mentored and guided 20+ junior developers. I am passionate about driving impactful technical solutions, with a mission _to make the world better through code_. Currently, I'm a Senior Outcome Engineer at [Onebrief](https://github.com/onebrief) building the operating system of modern command bringing together AI-enabled capabilities, modern technologies, decision intelligence, and collaborative tools as well as the lead maintainer of [smeltery](https://github.com/smeltery) and the [set-me-up](https://github.com/smeltery/set-me-up-docs) ecosystem.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nicholasadamou) [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nicholasadamou)
 
@@ -21,8 +21,9 @@ I am a seasoned Senior Agentic Software Engineer with over 6+ years of experienc
 </details>
 
 ## 💼 Experience
-- Senior Software Engineer [@Onebrief](https://github.com/onebrief) (Feburary 2026 - Present)
-- Senior Software Engineer [@Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) (December 2024 - Feburary 2026)
+- Senior Outcome Engineer [@Onebrief](https://github.com/onebrief) (October 2026 - Present)
+- Senior Software Engineer [@Onebrief](https://github.com/onebrief) (February 2026 - October 2026)
+- Senior Software Engineer [@Lockheed Martin](https://github.com/lmco) ([Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)) (December 2024 - February 2026)
 - Senior Software Engineer [@Apple](https://github.com/apple) (Contract) (September 2024 - November 2024)
 - Senior Software Engineer [@IBM](https://github.com/ibm) ([NS1 Connect](https://www.ibm.com/products/ns1-connect)) (April 2024 – August 2024)
 - Senior Software Engineer [@IBM](https://github.com/ibm) (October 2023 – April 2024)
