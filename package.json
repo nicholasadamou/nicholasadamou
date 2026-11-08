@@ -1,0 +1,30 @@
+{
+  "name": "nicholasadamou",
+  "version": "1.0.12",
+  "description": "Get to know Nicholas Adamou via `npx nicholasadamou`.",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "node index.js",
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "bin": {
+    "nicholasadamou": "index.js"
+  },
+  "dependencies": {
+    "cli-welcome": "^2.2.0",
+    "standard": "^16.0.3"
+  },
+  "keywords": [
+    "nicholas adamou",
+    "nicholas",
+    "adamou"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "nicholasadamou/nicholasadamou",
+  "author": {
+    "name": "Nicholas Adamou",
+    "email": "nicholasadamouemail@gmail.com"
+  }
+}
